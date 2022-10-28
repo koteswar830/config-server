@@ -1,2 +1,9 @@
+server:
+  port: 9296
+  
+spring:
+  application:
+    name: CONFIG-SERVER
+
 zipkin:
      base-url: http://127.0.0.1:9411/
